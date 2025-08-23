@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning the Backend Technologies
 - 💞️ I’m looking to collaborate on any front-end Technologies
 - 📫 How to reach me, WhatsApp: +2348150672809, Email: matanmidupe004@gmail.com
-- 😄 Pronouns: ```Mr```
+- 😄 Pronouns: ```Him/His```
 - ⚡ Fun fact: *Alot*
 
 <!---
