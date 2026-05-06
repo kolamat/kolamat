@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://kolademe.vercel.app/assets/kolade6-sYLXXENT.jpg" height="200" width="200" alt="Typing SVG" />
+<img src="https://kolademe.vercel.app/assets/kolade6-sYLXXENT.jpg" height="250" width="200" alt="Typing SVG" />
 
 # Hi 👋, I'm Matanmi Kolade
 
