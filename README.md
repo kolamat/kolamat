@@ -5,7 +5,7 @@
 
 ### Frontend Developer • Fullstack Learner • Future White Hat Hacker
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;Next.js+%26+MongoDB+Builder;Cybersecurity+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=#111827 → #374151&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;Next.js+%26+MongoDB+Builder;Cybersecurity+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 
 </div>
 
