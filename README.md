@@ -49,17 +49,6 @@ const kolade = {
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
@@ -83,9 +72,9 @@ const kolade = {
 ## 🌍 Connect With Me
 
 <p align="left">
-<a href="https://github.com/kolamat/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/kolade-matanmi-a695792a3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" /></a>
-<a href="https://x.com/koladeMOK" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="40" width="40" /></a>
+<a href="https://github.com/kolamat/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40" color="white"/></a>
+<a href="https://www.linkedin.com/in/kolade-matanmi-a695792a3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" color="white"/></a>
+<a href="https://x.com/koladeMOK" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="40" width="40" color="white" /></a>
 </p>
 
 ---
