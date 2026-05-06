@@ -70,7 +70,7 @@ const kolade = {
 
 ## 🌍 Connect With Me
 
-<p align="left">
+<p display="flex">
 <a href="https://github.com/kolamat/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="40" width="40" color="white"/></a>
 <a href="https://www.linkedin.com/in/kolade-matanmi-a695792a3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40" color="white"/></a>
 <a href="https://x.com/koladeMOK" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="twitter" height="40" width="40" color="white" /></a>
