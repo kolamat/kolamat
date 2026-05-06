@@ -1,4 +1,4 @@
-# GitHub Profile README Design
+<img src="https://kolademe.vercel.app/assets/kolade6-sYLXXENT.jpg" alt="Typing SVG" />
 
 <div align="center">
 
