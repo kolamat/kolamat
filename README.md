@@ -52,7 +52,7 @@ const kolade = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=kolamat&theme=tokyonight" alt="GitHub Streak" />
 
 </div>
 
