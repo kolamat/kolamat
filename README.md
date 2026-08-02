@@ -3,9 +3,9 @@
 
 # Hi 👋, I'm Matanmi Kolade
 
-### Frontend Developer • Fullstack Learner • Future White Hat Hacker
+### Frontend Developer • Fullstack Engineer • Future White Hat Hacker
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Allura+Code&size=25&weight=18&pause=1000&color=084B7C&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;Next.js+%26+MongoDB+Builder;Cybersecurity+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Allura+Code&size=25&weight=18&pause=1000&color=084B7C&center=true&vCenter=true&width=700&lines=Frontend+Web+Developer;Next.js+%26+MongoDB+Builder;Cybersecurity+Enthusiast;DevOps+Engineer;Always+Learning+New+Things" alt="Typing SVG" />
 
 </div>
 
