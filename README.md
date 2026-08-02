@@ -15,10 +15,10 @@
 
 ```javascript
 const info = {
-  name: "Kolade-Matanmi-Johnson",
+  name: "Kolade Matanmi Johnson",
   location: "Nigeria",
   stack: ["HTML", "CSS", "JavaScript", "React", "Next.js", "MongoDB"],
-  interests: ["Frontend Development", "Fullstack Apps", "Cybersecurity"],
+  interests: ["Frontend Development", "Fullstack Apps", "Cybersecurity", "DevOps Engineer"],
   currentlyLearning: "Advanced Fullstack Authentication",
   goal: "Building clean and scalable web applications"
 };
