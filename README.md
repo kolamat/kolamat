@@ -14,7 +14,8 @@
 ## 🚀 About Me
 
 ```javascript
-const kolade = {
+const info = {
+  name: "Kolade-Matanmi-Johnson",
   location: "Nigeria",
   stack: ["HTML", "CSS", "JavaScript", "React", "Next.js", "MongoDB"],
   interests: ["Frontend Development", "Fullstack Apps", "Cybersecurity"],
